@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\ClientCB\DTO\bin\Debug\DTO.dll
+C:\Users\user1\source\repos\ClientCB\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\source\repos\ClientCB\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\ClientCB\DTO\obj\Debug\DTO.dll
+C:\Users\user1\source\repos\ClientCB\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\DTO.dll.config
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Documents\Tamar\בסיעתא דשמיא\cityBook\ClientCB\DTO\obj\Debug\DTO.pdb
